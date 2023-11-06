@@ -1,0 +1,176 @@
+body {
+    margin: 0;
+}
+
+.blue {
+    color: #3E45E8;
+    font-family: Roboto;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 4.8px;
+}
+
+.yellow {
+    color: #E8C23E;
+    font-family: Roboto;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 4.8px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.slide-main {
+    background-image: url(../img/bg-main.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 766px;
+}
+
+.content-main {
+    box-sizing: border-box;
+    padding: 194px 317px;
+    
+}
+
+.sub-header-best-paces {
+    color: #000;
+    font-family: Roboto;
+    margin-top: 32px;
+    margin-bottom: 0;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 157.3%; /* 62.92px */
+}
+
+
+.slide-text {
+    display: inline-block;
+    color: #fff;
+    font-family: Roboto;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 157.3%;
+    margin: 0;
+    padding-left: 30px;
+}
+.blue-border {
+    border-left: 23px solid blue;
+}
+
+.yellow-border {
+    border-left: 23px solid yellow;
+}
+
+.best-place {
+    display: inline-block;
+    border: 5px solid #0D095F;
+    border-radius: 30px;
+    background: #FFF;
+    width: 388.35px;
+    height: 481px;
+    margin: 0 5%;
+    
+}
+
+.best-places{
+    margin: 2rem;
+
+}
+
+.txt-blue {
+    color: #0072DB;
+    font-family: Roboto;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 157.3%; /* 37.752px */
+}
+
+.txt-yellow {
+    color: #F90;
+    font-family: Inika, sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 157.3%; /* 31.46px */
+}
+
+.shadow-right {
+    box-shadow: 20px 20px 40px rgb(10, 159, 245);
+}
+
+.shadow-left {
+    box-shadow: -20px 20px 40px rgb(10, 159, 245);
+}
+
+.shadow-center {
+    box-shadow: 5px 20px 40px rgb(10, 159, 245);
+}
+
+.ukraine-wins {
+    color: #000;
+    font-family: Inika, sans-serif;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 157.3%; /* 62.92px */
+    border-bottom: 0.5rem solid #1400FF;
+    display: inline-block;
+}
+
+.center {
+    text-align: center;
+}
+
+.ukraine{
+    text-align: center;
+}
+
+.btn-go {
+    border-radius: 50px;
+    background: #2A61F0;
+    width: 499px;
+    height: 81px;
+    color: #FFF;
+    margin: 0 auto;
+}
+
+.go {
+    color: #FFF;
+    font-family: Inika;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 157.3%;
+    
+}
+
+.footer {
+    background: linear-gradient(180deg, #013235 0%, #0D0661 100%);
+    width: 100%;
+    height: 240px;
+    text-align: center;
+}
+
+.contacts{
+    text-decoration: none;
+    color: #A89D9D;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 3.6px;
+}
+
+svg{
+    margin: 0 0.5rem;
+}
